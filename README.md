@@ -1,4 +1,4 @@
-# JUnitCI 
+# JUnitTestsCI 
 
 | Technology | Badge |
 |:-----------:|:-----:|
